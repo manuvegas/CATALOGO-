@@ -1,0 +1,89 @@
+[
+  {
+    "id": "1",
+    "titulo": "REMERAS",
+    "imgs": ["../REMERAS10.png","../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },
+  {
+    "id": "2",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },
+  {
+    "id": "3",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },
+  {
+    "id": "5",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },
+  {
+    "id": "6",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },{
+    "id": "7",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },{
+    "id": "8",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },{
+    "id": "9",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  },{
+    "id": "10",
+    "titulo": "REMERAS",
+    "imgs":["../REMERAS10.png"],
+    "descripcion": "Una remera básica cómoda.",
+    "material": "Algodón",
+    "articulo": "350",
+    "color": ["#FFFFFF", "#000000"],
+    "categoria": "REMERAS"
+  }
+  
+]
