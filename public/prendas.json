@@ -1,89 +1,102 @@
 [
   {
     "id": "1",
-    "titulo": "REMERAS",
-    "imgs": ["../REMERAS10.png","../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
+    "titulo": "REMERA CUELLO REDONDO",
+    "imgs": ["../CATALOGO/20.jpeg"],
+    "descripcion": "- Remera cuello redondo 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "402",
+    "color": [
+      "../CATALOGO/5.jpeg",
+      "../CATALOGO/6.jpeg",
+      "../CATALOGO/7.jpeg",
+      "../CATALOGO/8.jpeg",
+      "../CATALOGO/9.jpeg",
+      "../CATALOGO/10.jpeg",
+      "../CATALOGO/17.jpeg",
+      "../CATALOGO/18.jpeg",
+      "../CATALOGO/19.jpeg"
+    ],
     "categoria": "REMERAS"
   },
   {
     "id": "2",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
+    "titulo": "REMERA 4 BOTONES",
+    "imgs": ["../CATALOGO/3.jpeg", "../CATALOGO/4.jpeg"],
+    "descripcion": "- Remera 4 botones 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "407",
+    "color": [],
     "categoria": "REMERAS"
   },
   {
     "id": "3",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
-    "categoria": "REMERAS"
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/1.jpeg", "../CATALOGO/2.jpeg"],
+    "descripcion": "Jersey rayado 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "359",
+    "color": [],
+    "categoria": "CHOMBAS"
+  },
+  {
+    "id": "4",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/11.jpeg"],
+    "descripcion": "Jersey rayado 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "351",
+    "color": [],
+    "categoria": "CHOMBAS"
   },
   {
     "id": "5",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
-    "categoria": "REMERAS"
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/12.jpeg"],
+    "descripcion": "Jersey rayado 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "352",
+    "color": [],
+    "categoria": "CHOMBAS"
   },
   {
     "id": "6",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
-    "categoria": "REMERAS"
-  },{
-    "id": "7",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
-    "categoria": "REMERAS"
-  },{
-    "id": "8",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
-    "categoria": "REMERAS"
-  },{
-    "id": "9",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
-    "categoria": "REMERAS"
-  },{
-    "id": "10",
-    "titulo": "REMERAS",
-    "imgs":["../REMERAS10.png"],
-    "descripcion": "Una remera básica cómoda.",
-    "material": "Algodón",
-    "articulo": "350",
-    "color": ["#FFFFFF", "#000000"],
-    "categoria": "REMERAS"
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/13.jpeg"],
+    "descripcion": "Jersey rayado 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "353",
+    "color": [],
+    "categoria": "CHOMBAS"
+  },
+  {
+    "id": "6",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/14.jpeg"],
+    "descripcion": "Jersey rayado 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "354",
+    "color": [],
+    "categoria": "CHOMBAS"
+  },
+  {
+    "id": "6",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/15.jpeg"],
+    "descripcion": "Jersey rayado 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "355",
+    "color": [],
+    "categoria": "CHOMBAS"
+  },
+  {
+    "id": "6",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/16.jpeg"],
+    "descripcion": "Jersey rayado 24/1,talles del S al XXL",
+    "material": "Jersey 100% algodon",
+    "articulo": "356",
+    "color": [],
+    "categoria": "CHOMBAS"
   }
-  
 ]

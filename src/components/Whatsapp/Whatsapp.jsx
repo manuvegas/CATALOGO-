@@ -1,6 +1,6 @@
 import React from "react";
 
-import whatsapp from "../../../public/CATALOGO/whatsapp.svg";
+import whatsapp from "../../../public/UI/whatsapp.svg";
 
 const Whatsapp = () => {
   return (
