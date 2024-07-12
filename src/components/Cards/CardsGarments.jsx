@@ -24,7 +24,7 @@ const CardsGarments = () => {
       <h1 className="flex justify-center items-center text-black pt-5 pb-5 text-3xl sm:text-5xl font-extrabold">
         {titulo}
       </h1>
-      <nav className="contenedor2">
+      <nav className="contenedor2 max-w-7xl mx-auto">
         {prendas.map((item) => (
           <CardGarment
             id={item.id}

@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { useSwipeable } from "react-swipeable";
+import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
 const CardGarment = ({
   titulo,
@@ -18,7 +20,7 @@ const CardGarment = ({
         prevIndex === 0 ? imgs.length - 1 : prevIndex - 1
       );
       setIsTransitioning(false);
-    }, 200); // Tiempo de la transición en milisegundos
+    }, 300); // Tiempo de la transición en milisegundos
   };
 
   const handleNextImage = () => {
@@ -28,29 +30,46 @@ const CardGarment = ({
         prevIndex === imgs.length - 1 ? 0 : prevIndex + 1
       );
       setIsTransitioning(false);
-    }, 200); // Tiempo de la transición en milisegundos
+    }, 300); // Tiempo de la transición en milisegundos
   };
+
+  const handlers = useSwipeable({
+    onSwipedLeft: handleNextImage,
+    onSwipedRight: handlePrevImage,
+    preventDefaultTouchmoveEvent: true,
+    trackMouse: true,
+  });
+
   return (
-    <div className="rounded-lg overflow-hidden shadow-2xl bg-white">
+    <div
+      className="rounded-lg overflow-hidden shadow-2xl bg-white "
+      {...handlers}
+    >
       <div className="relative">
         <img
-          className="w-full h-full object-cover"
+          className={`w-full h-full object-cover transition-transform duration-300 transform ${
+            isTransitioning ? "easy-in-out" : ""
+          }`}
           src={imgs[currentImageIndex]}
           alt={titulo}
           loading="lazy"
         />
-        <button
-          onClick={handlePrevImage}
-          className="absolute top-1/2 left-0 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-4 rounded-full"
-        >
-          {"<"}
-        </button>
-        <button
-          onClick={handleNextImage}
-          className="absolute top-1/2 right-0 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-4 rounded-full"
-        >
-          {">"}
-        </button>
+        {imgs.length > 1 && (
+          <>
+            <button
+              onClick={handlePrevImage}
+              className="absolute top-1/2 left-0 transform -translate-y-1/2 bg-black text-white p-2 rounded-full"
+            >
+              <FaArrowLeft size={15} />
+            </button>
+            <button
+              onClick={handleNextImage}
+              className="absolute top-1/2 right-0 transform -translate-y-1/2 bg-black text-white p-2 rounded-full"
+            >
+              <FaArrowRight size={15} />
+            </button>
+          </>
+        )}
       </div>
       <div className="px-2 py-4">
         <div className="flex justify-between">
@@ -63,9 +82,9 @@ const CardGarment = ({
           <p>{material}</p>
         </div>
         {colors && colors.length > 0 && (
-          <div className="flex items-center mb-4">
+          <div className="flex items-baseline mb-4">
             <span className="font-semibold mr-2">Colores:</span>
-            <div className="flex space-x-2">
+            <div className="flex gap-1 flex-wrap">
               {colors.map((colorImg, index) => (
                 <div
                   key={index}
@@ -85,4 +104,5 @@ const CardGarment = ({
     </div>
   );
 };
+
 export default CardGarment;
