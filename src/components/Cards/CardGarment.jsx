@@ -42,7 +42,7 @@ const CardGarment = ({
 
   return (
     <div
-      className="rounded-lg overflow-hidden shadow-2xl bg-white "
+      className="rounded-lg overflow-hidden shadow-2xl bg-white w-96"
       {...handlers}
     >
       <div className="relative">
@@ -82,7 +82,7 @@ const CardGarment = ({
           <p>{material}</p>
         </div>
         {colors && colors.length > 0 && (
-          <div className="flex items-baseline mb-4">
+          <div className="flex items-center mb-4">
             <span className="font-semibold mr-2">Colores:</span>
             <div className="flex gap-1 flex-wrap">
               {colors.map((colorImg, index) => (

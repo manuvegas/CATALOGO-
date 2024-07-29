@@ -19,10 +19,15 @@ const prendas = [
   {
     id: uuidv4(),
     img: "../UI/4.png",
-    title: "CAMPERAS",
-    categoria: "CAMPERAS",
+    title: "PIQUE",
+    categoria: "PIQUE",
   },
-  
+  {
+    id: uuidv4(),
+    img: "../UI/5.png",
+    title: "CHOMBAS-LISAS",
+    categoria: "CHOMBAS-LISAS",
+  }
 ];
 
 const CardsHome = () => {
