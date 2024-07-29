@@ -10,12 +10,10 @@
       "../COLORES/negro.jpeg",
       "../COLORES/blanco.jpeg",
       "../COLORES/marino.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg"
+      "../COLORES/pastel.jpeg",
+      "../COLORES/glaciar.jpeg",
+      "../COLORES/piel.jpeg",
+      "../COLORES/tulipan.jpeg"
     ],
     "categoria": "REMERAS"
   },
@@ -269,5 +267,15 @@
     "articulo": "435",
     "color": [],
     "categoria": "REMERAS"
+  },
+  {
+    "id": "2131312179900444",
+    "titulo": "CHOMBA FANTASIA",
+    "imgs": ["../CATALOGO/440.jpeg","../CATALOGO/440a.jpeg","../CATALOGO/440b.jpeg"],
+    "descripcion": "chomba fantasia estampada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "435",
+    "color": [],
+    "categoria": "CHOMBAS"
   }
 ]
