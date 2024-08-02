@@ -197,10 +197,10 @@
     "material": "pique oxford",
     "articulo": "345",
     "color": [
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
+      "../COLORES/negro.jpeg",
+      "../COLORES/blanco.jpeg",
+      "../COLORES/marino.jpeg",
+      "../COLORES/glaciar.jpeg",
       "../COLORES/.jpeg"
     ],
     "categoria": "PIQUE"
@@ -213,9 +213,9 @@
     "material": "pique oxford",
     "articulo": "346",
     "color": [
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
-      "../COLORES/.jpeg",
+      "../COLORES/negro.jpeg",
+      "../COLORES/blanco.jpeg",
+      "../COLORES/marino.jpeg",
       "../COLORES/.jpeg",
       "../COLORES/.jpeg"
     ],
