@@ -32,11 +32,20 @@
     "color": [],
     "categoria": "REMERAS"
   },
-
+ {
+    "id": "2131313279",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../CATALOGO/350a.jpeg","../CATALOGO/350b.jpeg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "350",
+    "color": [],
+    "categoria": "CHOMBAS"
+  },
   {
     "id": "4",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/11.jpeg", "../CATALOGO/14.jpeg"],
+    "imgs": ["../CATALOGO/11.jpeg", "../CATALOGO/351b.jpeg"],
     "descripcion": "Jersey rayado 24/1,talles del S al XXL",
     "material": "Jersey 100% algodon",
     "articulo": "351",
@@ -46,7 +55,7 @@
   {
     "id": "5",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/12.jpeg"],
+    "imgs": ["../CATALOGO/12.jpeg","../CATALOGO/352b.jpeg"],
     "descripcion": "Jersey rayado 24/1,talles del S al XXL",
     "material": "Jersey 100% algodon",
     "articulo": "352",
@@ -56,7 +65,7 @@
   {
     "id": "6",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/13.jpeg"],
+    "imgs": ["../CATALOGO/13.jpeg","../CATALOGO/353b.jpeg"],
     "descripcion": "Jersey rayado 24/1,talles del S al XXL",
     "material": "Jersey 100% algodon",
     "articulo": "353",
@@ -70,7 +79,7 @@
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "354",
-    "color": ["../CATALOGO/354b.jpeg"],
+    "color": [],
     "categoria": "CHOMBAS"
   },
   {
@@ -106,7 +115,7 @@
   {
     "id": "10",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/.jpeg"],
+    "imgs": ["../CATALOGO/358.jpeg","../CATALOGO/358b.jpeg"],
     "descripcion": "Jersey rayado 24/1,talles del S al XXL",
     "material": "Jersey 100% algodon",
     "articulo": "358",
@@ -183,7 +192,7 @@
   {
     "id": "15",
     "titulo": "CHOMBA LISA",
-    "imgs": ["../CATALOGO/.jpeg"],
+    "imgs": ["../CATALOGO/345.jpeg"],
     "descripcion": " chomba pique,talles del S al XXL",
     "material": "pique oxford",
     "articulo": "345",
@@ -199,7 +208,7 @@
   {
     "id": "15",
     "titulo": "CHOMBA LISA",
-    "imgs": ["../CATALOGO/.jpeg"],
+    "imgs": ["../CATALOGO/346.jpeg"],
     "descripcion": " chomba pique,talles del S al XXL",
     "material": "pique oxford",
     "articulo": "346",
@@ -228,11 +237,11 @@
     ],
     "categoria": "PIQUE"
   },
-
+ 
   {
     "id": "2131313232179",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/360.jpeg"],
+    "imgs": ["../CATALOGO/360.jpeg","../CATALOGO/360b.jpeg"],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "360",
@@ -258,6 +267,26 @@
     "articulo": "371",
     "color": [],
     "categoria": "CHOMBAS"
+  },
+  {
+    "id": "2131312179900111",
+    "titulo": "REMERA RAYADA",
+    "imgs": ["../CATALOGO/405.jpeg","../CATALOGO/405b.jpeg", "../CATALOGO/405c.jpeg"],
+    "descripcion": "remera  remera lisa fantasia 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "405",
+    "color": [],
+    "categoria": "REMERAS"
+  },
+  {
+    "id": "2131312179900111",
+    "titulo": "REMERA RAYADA",
+    "imgs": ["../CATALOGO/406.jpeg"],
+    "descripcion": "remera lisa estampada 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "406",
+    "color": [],
+    "categoria": "REMERAS"
   },
   {
     "id": "2131312179900111",
