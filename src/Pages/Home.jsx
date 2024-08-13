@@ -7,7 +7,7 @@ const Home = () => {
     <section>
       <div>
         <h1 className=" text-center font-extrabold md:text-3xl mt-5">
-          CATALOGO FOREST-TEXT
+          CATALOGO YSL
         </h1>
         <h2 className="text-center text-neutral-900 font-extrabold md:text-2xl mt-4">CATEGORIAS</h2>
         <div className="mt-10">
