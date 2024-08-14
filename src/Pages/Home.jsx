@@ -5,18 +5,18 @@ const Home = () => {
   return (
     <section>
       <div>
-        <h1 className=" text-center font-extrabold md:text-3xl mt-5">
+        <h1 className=" text-center font-extrabold text-xl md:text-3xl mt-5">
           CATALOGO YSL
         </h1>
-        <div className="flex justify-center gap-5 mt-20 flex-col sm:flex-row">
-          <div className="bg-white w-96 object-cover ">
+        <div className="flex justify-center mx-auto items-center gap-5 mt-5 flex-col sm:flex-row">
+          <div className="max-w-lg">
             <Link to="/CardsGl">
               <img src="../UI/gl.jpeg" alt="ysl" />
             </Link>
           </div>
-          <div className="bg-white w-96 object-cover">
+          <div className="max-w-lg">
             <Link to="/CardsHome">
-              <img src="../UI/ysl.jpeg" alt="gl" />
+              <img src="../UI/ysl.jpeg" alt="gl" className="" />
             </Link>
           </div>
         </div>
