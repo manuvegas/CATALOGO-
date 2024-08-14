@@ -2,7 +2,7 @@
   {
     "id": "1",
     "titulo": "REMERA CUELLO REDONDO",
-    "imgs": ["../CATALOGO/402.jpg","../CATALOGO/20.jpeg"],
+    "imgs": ["../CATALOGO/402.jpg", "../CATALOGO/20.jpeg"],
     "descripcion": "Remera cuello redondo 24/1,talles del S al XXL",
     "material": "Jersey 100% algodon",
     "articulo": "402",
@@ -32,10 +32,10 @@
     "color": [],
     "categoria": "REMERAS"
   },
- {
+  {
     "id": "2131313279",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/350A.jpg","../CATALOGO/350B.jpg"],
+    "imgs": ["../CATALOGO/350A.jpg", "../CATALOGO/350B.jpg"],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "350",
@@ -55,7 +55,7 @@
   {
     "id": "5",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/352A.jpg","../CATALOGO/352B.jpg"],
+    "imgs": ["../CATALOGO/352A.jpg", "../CATALOGO/352B.jpg"],
     "descripcion": "Jersey rayado 24/1,talles del S al XXL",
     "material": "Jersey 100% algodon",
     "articulo": "352",
@@ -65,7 +65,7 @@
   {
     "id": "5252356252",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../CATALOGO/354A.jpg","../CATALOGO/354.jpeg"],
+    "imgs": ["../CATALOGO/354A.jpg", "../CATALOGO/354.jpeg"],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "354",
@@ -105,10 +105,7 @@
   {
     "id": "13",
     "titulo": "CHOMBA LISA",
-    "imgs": [
-      "../CATALOGO/342.jpg"
-  
-    ],
+    "imgs": ["../CATALOGO/342.jpg"],
     "descripcion": "Jersey 24/1 cuello vivo,talles del S al XXL",
     "material": "Jersey 100% algodon",
     "articulo": "342",
@@ -169,7 +166,11 @@
   {
     "id": "2131312179900111",
     "titulo": "REMERA RAYADA",
-    "imgs": ["../CATALOGO/405.jpeg","../CATALOGO/405b.jpeg", "../CATALOGO/405c.jpeg"],
+    "imgs": [
+      "../CATALOGO/405.jpeg",
+      "../CATALOGO/405b.jpeg",
+      "../CATALOGO/405c.jpeg"
+    ],
     "descripcion": "remera  remera lisa fantasia 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "405",
@@ -229,9 +230,7 @@
   {
     "id": "2131312179900444",
     "titulo": "CHOMBA FANTASIA",
-    "imgs": [
-      "../CATALOGO/442.jpg"
-    ],
+    "imgs": ["../CATALOGO/442.jpg"],
     "descripcion": "chomba fantasia estampada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "442",
@@ -243,5 +242,61 @@
       "../COLORES/gris perla.jpeg"
     ],
     "categoria": "CHOMBAS-LISAS"
+  },
+
+
+
+
+
+
+  {
+    "id": "213131217990",
+    "titulo": "CHOMBA LISA",
+    "imgs": ["../GUILAROCHE/341.JPG","../GUILAROCHE/341A.png","../GUILAROCHE/341B.png","../GUILAROCHE/341C.png","../GUILAROCHE/341D.png"],
+    "descripcion": "chomba lisa 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "341",
+    "color": [],
+    "categoria": "CHOMBAS-LISAS-GL"
+  },
+  {
+    "id": "2131312179902",
+    "titulo": "CHOMBA LISA",
+    "imgs": ["../GUILAROCHE/342.JPG"],
+    "descripcion": "chomba lisa cuello vivo 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "342",
+    "color": [],
+    "categoria": "CHOMBAS-LISAS-GL"
+  },
+  {
+    "id": "2131312179903",
+    "titulo": "CHOMBA LISA",
+    "imgs": ["../GUILAROCHE/343.JPG"],
+    "descripcion": "chomba lisa con cuello jackard 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey jackard",
+    "articulo": "343",
+    "color": [],
+    "categoria": "CHOMBAS-LISAS-GL"
+  },
+  {
+    "id": "213131204",
+    "titulo": "CHOMBA LISA",
+    "imgs": ["../GUILAROCHE/344.JPG"],
+    "descripcion": "chomba moline 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey moline",
+    "articulo": "344",
+    "color": [],
+    "categoria": "CHOMBAS-LISAS-GL"
+  },
+  {
+    "id": "21313121794",
+    "titulo": "CHOMBA FANTASIA",
+    "imgs": ["../GUILAROCHE/440.JPG"],
+    "descripcion": "chomba fantasia estampada 100% algodon,talles del S al XXL",
+    "material": "jersey moline",
+    "articulo": "440",
+    "color": [],
+    "categoria": "CHOMBAS-LISAS-GL"
   }
 ]

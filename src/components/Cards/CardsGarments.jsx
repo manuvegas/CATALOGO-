@@ -1,10 +1,9 @@
 import React, { useEffect, useState } from "react";
 import CardGarment from "./CardGarment";
-import { useLocation, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 
 const CardsGarments = () => {
   const [prendas, setPrendas] = useState([]);
-  const location = useLocation();
   const { titulo } = useParams();
 
   useEffect(() => {

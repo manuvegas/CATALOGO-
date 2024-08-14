@@ -10,7 +10,7 @@ const Home = () => {
         </h1>
         <div className="flex justify-center gap-5 mt-20 flex-col sm:flex-row">
           <div className="bg-white w-96 object-cover ">
-            <Link to="">
+            <Link to="/CardsGl">
               <img src="../UI/gl.jpeg" alt="ysl" />
             </Link>
           </div>
