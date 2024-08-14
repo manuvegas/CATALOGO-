@@ -32,7 +32,7 @@ const prendas = [
 
 const CardsHome = () => {
   return (
-    <div className="contenedor xl:max-w-screen-2xl xl:mx-auto">
+    <div className="contenedor xl:max-w-screen-2xl xl:mx-auto mt-32">
       {prendas.map((prenda) => (
         <CardHome
           id={prenda.id}

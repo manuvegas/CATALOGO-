@@ -1,4 +1,5 @@
-import { Home,CardsGarments } from '@/components';
+import { Home,CardsGarments, CardsHome } from '@/components';
+
 import React from 'react'
 import { Routes, Route} from "react-router-dom";
 
@@ -8,6 +9,7 @@ const AppRouter = () => {
       <Routes>
         <Route path="/" element={<Home />} /> 
         <Route path="/CardGarments/:titulo" element={<CardsGarments />} />
+        <Route path='/CardsHome' element={<CardsHome />}/>
       </Routes>
     </div>
   )

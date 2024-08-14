@@ -1,6 +1,5 @@
-import CardsHome from "@/components/Cards/CardsHome";
 import React from "react";
-
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -9,9 +8,17 @@ const Home = () => {
         <h1 className=" text-center font-extrabold md:text-3xl mt-5">
           CATALOGO YSL
         </h1>
-        <h2 className="text-center text-neutral-900 font-extrabold md:text-2xl mt-4">CATEGORIAS</h2>
-        <div className="mt-10">
-          <CardsHome />
+        <div className="flex justify-center gap-5 mt-20 flex-col sm:flex-row">
+          <div className="bg-white w-96 object-cover ">
+            <Link to="">
+              <img src="../UI/gl.jpeg" alt="ysl" />
+            </Link>
+          </div>
+          <div className="bg-white w-96 object-cover">
+            <Link to="/CardsHome">
+              <img src="../UI/ysl.jpeg" alt="gl" />
+            </Link>
+          </div>
         </div>
       </div>
     </section>
