@@ -249,10 +249,17 @@
 
 
 
+
   {
     "id": "213131217990",
     "titulo": "CHOMBA LISA",
-    "imgs": ["../GUILAROCHE/341.JPG","../GUILAROCHE/341A.png","../GUILAROCHE/341B.png","../GUILAROCHE/341C.png","../GUILAROCHE/341D.png"],
+    "imgs": [
+      "../GUILAROCHE/341.JPG",
+      "../GUILAROCHE/341A.png",
+      "../GUILAROCHE/341B.png",
+      "../GUILAROCHE/341C.png",
+      "../GUILAROCHE/341D.png"
+    ],
     "descripcion": "chomba lisa 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "341",
@@ -262,7 +269,14 @@
   {
     "id": "2131312179902",
     "titulo": "CHOMBA LISA",
-    "imgs": ["../GUILAROCHE/342.JPG"],
+    "imgs": [
+      "../GUILAROCHE/342.JPG",
+      "../GUILAROCHE/342A.jpg",
+      "../GUILAROCHE/342B.jpg",
+      "../GUILAROCHE/342C.jpg",
+      "../GUILAROCHE/342D.jpg",
+      "../GUILAROCHE/342E.jpg"
+    ],
     "descripcion": "chomba lisa cuello vivo 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "342",
@@ -272,7 +286,11 @@
   {
     "id": "2131312179903",
     "titulo": "CHOMBA LISA",
-    "imgs": ["../GUILAROCHE/343.JPG"],
+    "imgs": [
+      "../GUILAROCHE/343.JPG",
+      "../GUILAROCHE/343A.jpeg",
+      "../GUILAROCHE/343B.jpeg"
+    ],
     "descripcion": "chomba lisa con cuello jackard 24/1 100% algodon,talles del S al XXL",
     "material": "jersey jackard",
     "articulo": "343",
@@ -282,7 +300,11 @@
   {
     "id": "213131204",
     "titulo": "CHOMBA LISA",
-    "imgs": ["../GUILAROCHE/344.JPG"],
+    "imgs": [
+      "../GUILAROCHE/344.JPG",
+      "../GUILAROCHE/344B.jpg",
+      "../GUILAROCHE/344C.jpg"
+    ],
     "descripcion": "chomba moline 24/1 100% algodon,talles del S al XXL",
     "material": "jersey moline",
     "articulo": "344",
@@ -292,11 +314,51 @@
   {
     "id": "21313121794",
     "titulo": "CHOMBA FANTASIA",
-    "imgs": ["../GUILAROCHE/440.JPG"],
+    "imgs": [
+      "../GUILAROCHE/440.JPG",
+      "../GUILAROCHE/440 B.jpg",
+      "../GUILAROCHE/440C.jpg",
+      "../GUILAROCHE/440D.jpg",
+      "../GUILAROCHE/440E.jpg"
+    ],
     "descripcion": "chomba fantasia estampada 100% algodon,talles del S al XXL",
     "material": "jersey moline",
     "articulo": "440",
     "color": [],
     "categoria": "CHOMBAS-LISAS-GL"
+  },
+  {
+    "id": "21313121794",
+    "titulo": "CHOMBA PIQUE",
+    "imgs": [
+      "../GUILAROCHE/345.JPG",
+      "../GUILAROCHE/345A.jpg",
+      "../GUILAROCHE/345B.jpg",
+      "../GUILAROCHE/345C.jpg",
+      "../GUILAROCHE/345D.jpg",
+      "../GUILAROCHE/345E.jpg",
+      "../GUILAROCHE/345F.jpg"
+    ],
+    "descripcion": "chomba pique cuello liso 100% algodon,talles del S al XXL",
+    "material": "pique",
+    "articulo": "345",
+    "color": [],
+    "categoria": "PIQUE-GL"
+  },
+  {
+    "id": "21313121794",
+    "titulo": "CHOMBA LISA",
+    "imgs": [
+      "../GUILAROCHE/347.JPG",
+      "../GUILAROCHE/347A.jpg",
+      "../GUILAROCHE/347B.jpg",
+      "../GUILAROCHE/347C.jpg",
+      "../GUILAROCHE/347D.jpg"
+    ],
+    "descripcion": "chomba pique cuello jackard 100% algodon,talles del S al XXL",
+    "material": "pique oxford",
+    "articulo": "347",
+    "color": [],
+    "categoria": "PIQUE-GL"
   }
 ]

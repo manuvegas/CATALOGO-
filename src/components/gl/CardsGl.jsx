@@ -6,6 +6,12 @@ import "../Cards/contenedor.css";
 const prendas = [
   {
     id: uuidv4(),
+    img: "../UI/2.png",
+    title: "REMERAS-GL",
+    categoria: "REMERAS-GL",
+  },
+  {
+    id: uuidv4(),
     img: "../UI/3.png",
     title: "CHOMBAS-GL",
     categoria: "CHOMBAS-GL",
