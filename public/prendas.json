@@ -244,12 +244,6 @@
     "categoria": "CHOMBAS-LISAS"
   },
 
-
-
-
-
-
-
   {
     "id": "213131217990",
     "titulo": "CHOMBA LISA",
@@ -284,7 +278,7 @@
     "categoria": "CHOMBAS-LISAS-GL"
   },
   {
-    "id": "2131312179903",
+    "id": "2131312179903A",
     "titulo": "CHOMBA LISA",
     "imgs": [
       "../GUILAROCHE/343.JPG",
@@ -298,7 +292,7 @@
     "categoria": "CHOMBAS-LISAS-GL"
   },
   {
-    "id": "213131204",
+    "id": "21313120477",
     "titulo": "CHOMBA LISA",
     "imgs": [
       "../GUILAROCHE/344.JPG",
@@ -312,8 +306,8 @@
     "categoria": "CHOMBAS-LISAS-GL"
   },
   {
-    "id": "21313121794",
-    "titulo": "CHOMBA FANTASIA",
+    "id": "2131312179466",
+    "titulo": "CHOMBA ESTAMPADA",
     "imgs": [
       "../GUILAROCHE/440.JPG",
       "../GUILAROCHE/440 B.jpg",
@@ -321,14 +315,14 @@
       "../GUILAROCHE/440D.jpg",
       "../GUILAROCHE/440E.jpg"
     ],
-    "descripcion": "chomba fantasia estampada 100% algodon,talles del S al XXL",
-    "material": "jersey moline",
+    "descripcion": "chomba estampada 100% algodon,talles del S al XXL",
+    "material": "jersey",
     "articulo": "440",
     "color": [],
     "categoria": "CHOMBAS-LISAS-GL"
   },
   {
-    "id": "21313121794",
+    "id": "2131312179455",
     "titulo": "CHOMBA PIQUE",
     "imgs": [
       "../GUILAROCHE/345.JPG",
@@ -346,7 +340,7 @@
     "categoria": "PIQUE-GL"
   },
   {
-    "id": "21313121794",
+    "id": "2131312179411",
     "titulo": "CHOMBA LISA",
     "imgs": [
       "../GUILAROCHE/347.JPG",
@@ -360,5 +354,79 @@
     "articulo": "347",
     "color": [],
     "categoria": "PIQUE-GL"
+  },
+  {
+    "id": "213131217942244",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/353.jpg", "../GUILAROCHE/353A.jpg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "353",
+    "color": [],
+    "categoria": "CHOMBAS-GL"
+  },
+  {
+    "id": "213131217942211",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": [
+      "../GUILAROCHE/357.jpg",
+      "../GUILAROCHE/357B.jpg",
+      "../GUILAROCHE/357C.jpg"
+    ],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "357",
+    "color": [],
+    "categoria": "CHOMBAS-GL"
+  },
+  {
+    "id": "2131312179422AA",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/360.JPG", "../GUILAROCHE/360A.jpg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "360",
+    "color": [],
+    "categoria": "CHOMBAS-GL"
+  },
+  {
+    "id": "2131312179422DAD",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/361.JPG"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "361",
+    "color": [],
+    "categoria": "CHOMBAS-GL"
+  },
+  {
+    "id": "21313121794226676",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/371.JPG"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "371",
+    "color": [],
+    "categoria": "CHOMBAS-GL"
+  },
+  {
+    "id": "2131312179422662276",
+    "titulo": "REMERA LISA",
+    "imgs": [
+      "../GUILAROCHE/402.png",
+      "../GUILAROCHE/402A.jpg",
+      "../GUILAROCHE/402B.jpg",
+      "../GUILAROCHE/402C.jpg",
+      "../GUILAROCHE/402D.jpg",
+      "../GUILAROCHE/402E.jpg",
+      "../GUILAROCHE/402F.jpg",
+      "../GUILAROCHE/402G.jpg",
+      "../GUILAROCHE/402H.jpg"
+    ],
+    "descripcion": "remera lisa 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "402",
+    "color": [],
+    "categoria": "REMERAS-GL"
   }
 ]
