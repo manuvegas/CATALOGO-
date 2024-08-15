@@ -27,6 +27,12 @@ const prendas = [
     img: "../UI/5.png",
     title: "CHOMBAS-LISAS-GL",
     categoria: "CHOMBAS-LISAS-GL",
+  },
+  {
+    id: uuidv4(),
+    img: "../UI/6.png",
+    title: "HILOS-GL",
+    categoria: "HILOS-GL",
   }
 ];
 

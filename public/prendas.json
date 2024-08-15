@@ -428,5 +428,35 @@
     "articulo": "402",
     "color": [],
     "categoria": "REMERAS-GL"
+  },
+  {
+    "id": "21313121794226679076",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/.jpg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "931",
+    "color": ["../COLORES/negro.jpeg","../COLORES/musgo.jpeg","../COLORES/patito.jpeg"],
+    "categoria": "HILOS-GL"
+  },
+  {
+    "id": "213131217942266672426",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/.jpg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "700",
+    "color": ["../COLORES/negro.jpeg","../COLORES/marino.jpeg","../COLORES/d.jpeg","../COLORES/lacre.jpeg","../COLORES/musgo.jpeg"],
+    "categoria": "HILOS-GL"
+  },
+  {
+    "id": "2131312179422667224236",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/.jpg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "120",
+    "color": ["../COLORES/negro.jpeg","../COLORES/marino.jpeg","../COLORES/d.jpeg","../COLORES/lacre.jpeg","../COLORES/musgo.jpeg"],
+    "categoria": "HILOS-GL"
   }
 ]
