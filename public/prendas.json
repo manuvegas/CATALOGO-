@@ -328,7 +328,7 @@
     "material": "jersey moline",
     "articulo": "441",
     "color": [],
-    "categoria": "CHOMBAS-LISAS-GL"
+    "categoria": "CHOMBAS-LISAS"
   },
   {
     "id": "2131312179466",
@@ -364,20 +364,7 @@
     "color": [],
     "categoria": "PIQUE-GL"
   },
-  {
-    "id": "2131312179455",
-    "titulo": "CHOMBA PIQUE",
-    "imgs": [
-      "../GUILAROCHE/358.jpeg",
-        "../GUILAROCHE/358b.jpeg"
-     
-    ],
-    "descripcion": "chomba pique cuello liso 100% algodon,talles del S al XXL",
-    "material": "pique",
-    "articulo": "358",
-    "color": [],
-    "categoria": "PIQUE-GL"
-  },
+
   {
     "id": "2131312179411",
     "titulo": "CHOMBA LISA",
@@ -415,6 +402,16 @@
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "357",
+    "color": [],
+    "categoria": "CHOMBAS-GL"
+  },
+  {
+    "id": "2131312179455",
+    "titulo": "CHOMBA PIQUE",
+    "imgs": ["../GUILAROCHE/358.jpeg", "../GUILAROCHE/358b.jpeg"],
+    "descripcion": "chomba  100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "358",
     "color": [],
     "categoria": "CHOMBAS-GL"
   },
@@ -471,31 +468,51 @@
   {
     "id": "21313121794226679076",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../GUILAROCHE/931.jpeg","../GUILAROCHE/931a.jpeg","../GUILAROCHE/931b.jpeg"],
+    "imgs": [
+      "../GUILAROCHE/931.jpeg",
+      "../GUILAROCHE/931a.jpeg",
+      "../GUILAROCHE/931b.jpeg"
+    ],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "931",
-    "color": ["../COLORES/negro.jpeg","../COLORES/musgo.jpeg","../COLORES/patito.jpeg"],
-    "categoria": "HILOS-GL"
+    "color": [
+      "../COLORES/negro.jpeg",
+      "../COLORES/musgo.jpeg",
+      "../COLORES/patito.jpeg"
+    ],
+    "categoria": "HILOS"
   },
   {
     "id": "213131217942266672426",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../GUILAROCHE/.jpg"],
+    "imgs": ["../GUILAROCHE/700.jpeg"],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "700",
-    "color": ["../COLORES/negro.jpeg","../COLORES/marino.jpeg","../COLORES/d.jpeg","../COLORES/lacre.jpeg","../COLORES/musgo.jpeg"],
-    "categoria": "HILOS-GL"
+    "color": [
+      "../COLORES/negro.jpeg",
+      "../COLORES/marino.jpeg",
+      "../COLORES/d.jpeg",
+      "../COLORES/lacre.jpeg",
+      "../COLORES/musgo.jpeg"
+    ],
+    "categoria": "HILOS"
   },
   {
     "id": "2131312179422667224236",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../GUILAROCHE/.jpg"],
+    "imgs": ["../GUILAROCHE/120.jpeg"],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "120",
-    "color": ["../COLORES/negro.jpeg","../COLORES/marino.jpeg","../COLORES/d.jpeg","../COLORES/lacre.jpeg","../COLORES/musgo.jpeg"],
-    "categoria": "HILOS-GL"
+    "color": [
+      "../COLORES/negro.jpeg",
+      "../COLORES/marino.jpeg",
+      "../COLORES/d.jpeg",
+      "../COLORES/lacre.jpeg",
+      "../COLORES/musgo.jpeg"
+    ],
+    "categoria": "HILOS"
   }
 ]
