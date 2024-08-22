@@ -164,6 +164,16 @@
     "categoria": "CHOMBAS"
   },
   {
+    "id": "2131312179900",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/362.jpeg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "362",
+    "color": [],
+    "categoria": "CHOMBAS"
+  },
+  {
     "id": "2131312179900111",
     "titulo": "REMERA RAYADA",
     "imgs": [
@@ -306,6 +316,21 @@
     "categoria": "CHOMBAS-LISAS-GL"
   },
   {
+    "id": "21313120477",
+    "titulo": "CHOMBA LISA",
+    "imgs": [
+      "../GUILAROCHE/441a.jpeg",
+      "../GUILAROCHE/441.jpeg",
+      "../GUILAROCHE/441b.jpeg",
+      "../GUILAROCHE/441c.jpeg"
+    ],
+    "descripcion": "chomba moline 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey moline",
+    "articulo": "441",
+    "color": [],
+    "categoria": "CHOMBAS-LISAS-GL"
+  },
+  {
     "id": "2131312179466",
     "titulo": "CHOMBA ESTAMPADA",
     "imgs": [
@@ -336,6 +361,20 @@
     "descripcion": "chomba pique cuello liso 100% algodon,talles del S al XXL",
     "material": "pique",
     "articulo": "345",
+    "color": [],
+    "categoria": "PIQUE-GL"
+  },
+  {
+    "id": "2131312179455",
+    "titulo": "CHOMBA PIQUE",
+    "imgs": [
+      "../GUILAROCHE/358.jpeg",
+        "../GUILAROCHE/358b.jpeg"
+     
+    ],
+    "descripcion": "chomba pique cuello liso 100% algodon,talles del S al XXL",
+    "material": "pique",
+    "articulo": "358",
     "color": [],
     "categoria": "PIQUE-GL"
   },
@@ -432,7 +471,7 @@
   {
     "id": "21313121794226679076",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../GUILAROCHE/.jpg"],
+    "imgs": ["../GUILAROCHE/931.jpeg","../GUILAROCHE/931a.jpeg","../GUILAROCHE/931b.jpeg"],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "931",
