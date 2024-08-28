@@ -152,6 +152,15 @@
       "../COLORES/.jpeg"
     ],
     "categoria": "PIQUE"
+  },{
+    "id": "2131312179900",
+    "titulo": "CHOMBA RAYADA",
+    "imgs": ["../GUILAROCHE/362.jpeg"],
+    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
+    "material": "jersey",
+    "articulo": "362",
+    "color": [],
+    "categoria": "CHOMBAS"
   },
   {
     "id": "2131312179900",
@@ -163,16 +172,7 @@
     "color": [],
     "categoria": "CHOMBAS"
   },
-  {
-    "id": "2131312179900",
-    "titulo": "CHOMBA RAYADA",
-    "imgs": ["../GUILAROCHE/362.jpeg"],
-    "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
-    "material": "jersey",
-    "articulo": "362",
-    "color": [],
-    "categoria": "CHOMBAS"
-  },
+  
   {
     "id": "2131312179900111",
     "titulo": "REMERA RAYADA",
@@ -395,7 +395,7 @@
     "id": "213131217942211",
     "titulo": "CHOMBA RAYADA",
     "imgs": [
-      "../GUILAROCHE/357.jpg",
+      "../GUILAROCHE/357.jpeg",
       "../GUILAROCHE/357B.jpg",
       "../GUILAROCHE/357C.jpg"
     ],
@@ -438,7 +438,7 @@
   {
     "id": "21313121794226676",
     "titulo": "CHOMBA RAYADA",
-    "imgs": ["../GUILAROCHE/371.JPG"],
+    "imgs": ["../GUILAROCHE/371.jpeg"],
     "descripcion": "chomba rayada 24/1 100% algodon,talles del S al XXL",
     "material": "jersey",
     "articulo": "371",
